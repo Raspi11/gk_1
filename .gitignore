@@ -1,0 +1,9 @@
+baza.conf
+
+#ignorowanie plikow tymczasowych i logów
+*.log
+*.tmp
+*.conf
+
+#wykluczanie plików z ignorowania
+!.gitignore
